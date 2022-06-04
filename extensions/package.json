@@ -15,7 +15,7 @@
     "@types/fs-extra": "^9.0.6",
     "@typescript-eslint/eslint-plugin": "2.34.0",
     "@typescript-eslint/parser": "2.34.0",
-    "esbuild": "^0.8.44",
+    "esbuild": "^0.14.39",
     "esbuild-plugin-globals": "^0.1.1",
     "eslint": "7.0.0",
     "eslint-config-prettier": "6.11.0",
