@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "glob-to-regexp": "^0.4.1",
-    "mongodb-client-encryption": "^1.1.0",
+    "mongodb-client-encryption": "^2.0.0",
     "mongoose": "^5.13.13"
   },
   "devDependencies": {
