@@ -32,13 +32,13 @@
     "adaptive-expressions": "4.12.0-rc1",
     "botbuilder-lg": "4.14.0-dev.391a2ab",
     "create-react-class": "^15.6.3",
-    "d3": "^5.9.1",
+    "d3": "^7.0.0",
     "dagre": "^0.8.4",
-    "dagre-d3": "^0.6.3",
+    "dagre-d3": "^0.6.4",
     "lodash": "^4.17.19",
     "prop-types": "^15.7.2",
     "react-measure": "^2.3.0",
-    "source-map-loader": "^0.2.4",
+    "source-map-loader": "^1.0.0",
     "tslib": "2.0.3"
   },
   "peerDependencies": {
